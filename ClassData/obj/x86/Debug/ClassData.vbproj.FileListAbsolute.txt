@@ -1,0 +1,180 @@
+D:\Sistemas\2013\Encuesta\ClassData\bin\Debug\ClassData.dll
+D:\Sistemas\2013\Encuesta\ClassData\bin\Debug\ClassData.pdb
+D:\Sistemas\2013\Encuesta\ClassData\bin\Debug\ClassData.xml
+D:\Sistemas\2013\Encuesta\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+D:\Sistemas\2013\Encuesta\ClassData\obj\x86\Debug\ClassData.dll
+D:\Sistemas\2013\Encuesta\ClassData\obj\x86\Debug\ClassData.xml
+D:\Sistemas\2013\Encuesta\ClassData\obj\x86\Debug\ClassData.pdb
+D:\Sistemas\2013\Encuesta\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+D:\Sistemas\2013\Encuesta\ClassData\obj\x86\Debug\ClassData.vbprojResolveAssemblyReference.cache
+D:\2013\app\SEIS\ClassData\bin\Debug\ClassData.dll
+D:\2013\app\SEIS\ClassData\bin\Debug\ClassData.pdb
+D:\2013\app\SEIS\ClassData\bin\Debug\ClassData.xml
+D:\2013\app\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+D:\2013\app\SEIS\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+D:\2013\app\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+D:\2013\app\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+D:\2013\app\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+D:\Sistemas\2013\SEIS\ClassData\bin\Debug\ClassData.dll
+D:\Sistemas\2013\SEIS\ClassData\bin\Debug\ClassData.pdb
+D:\Sistemas\2013\SEIS\ClassData\bin\Debug\ClassData.xml
+D:\Sistemas\2013\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+D:\Sistemas\2013\SEIS\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+D:\Sistemas\2013\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+D:\Sistemas\2013\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+D:\Sistemas\2013\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassData\bin\Debug\ClassData.dll
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassData\bin\Debug\ClassData.pdb
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassData\bin\Debug\ClassData.xml
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassData\obj\x86\Debug\ClassData.vbprojResolveAssemblyReference.cache
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+D:\Sistemas\2013\2014-03-06\seis\ClassData\bin\Debug\ClassData.dll
+D:\Sistemas\2013\2014-03-06\seis\ClassData\bin\Debug\ClassData.pdb
+D:\Sistemas\2013\2014-03-06\seis\ClassData\bin\Debug\ClassData.xml
+D:\Sistemas\2013\2014-03-06\seis\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+D:\Sistemas\2013\2014-03-06\seis\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+D:\Sistemas\2013\2014-03-06\seis\ClassData\obj\x86\Debug\ClassData.dll
+D:\Sistemas\2013\2014-03-06\seis\ClassData\obj\x86\Debug\ClassData.xml
+D:\Sistemas\2013\2014-03-06\seis\ClassData\obj\x86\Debug\ClassData.pdb
+D:\Sistemas\2013\2014-03-06\seis\ClassData\obj\x86\Debug\ClassData.vbprojResolveAssemblyReference.cache
+D:\Sistemas\2013\Version original\SEIS\ClassData\bin\Debug\ClassData.dll
+D:\Sistemas\2013\Version original\SEIS\ClassData\bin\Debug\ClassData.pdb
+D:\Sistemas\2013\Version original\SEIS\ClassData\bin\Debug\ClassData.xml
+D:\Sistemas\2013\Version original\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+D:\Sistemas\2013\Version original\SEIS\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+D:\Sistemas\2013\Version original\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+D:\Sistemas\2013\Version original\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+D:\Sistemas\2013\Version original\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassData\bin\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassData\bin\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassData\bin\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassData\obj\x86\Debug\ClassData.vbprojResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassData\bin\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassData\bin\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassData\bin\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassData\obj\x86\Debug\ClassData.vbprojResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassData\bin\Debug\ClassData.dll
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassData\bin\Debug\ClassData.pdb
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassData\bin\Debug\ClassData.xml
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\bin\Debug\ClassData.dll
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\bin\Debug\ClassData.pdb
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\bin\Debug\ClassData.xml
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\obj\x86\Debug\ClassData.vbprojResolveAssemblyReference.cache
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\bin\Debug\ClassData.dll
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\bin\Debug\ClassData.pdb
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\bin\Debug\ClassData.xml
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\obj\x86\Debug\ClassData.vbprojResolveAssemblyReference.cache
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+D:\Projects\iCodex\2014-05-18\SEIS\ClassData\bin\Debug\ClassData.dll
+D:\Projects\iCodex\2014-05-18\SEIS\ClassData\bin\Debug\ClassData.pdb
+D:\Projects\iCodex\2014-05-18\SEIS\ClassData\bin\Debug\ClassData.xml
+D:\Projects\iCodex\2014-05-18\SEIS\ClassData\obj\x86\Debug\ClassData.vbprojResolveAssemblyReference.cache
+D:\Projects\iCodex\2014-05-18\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+D:\Projects\iCodex\2014-05-18\SEIS\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+D:\Projects\iCodex\2014-05-18\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+D:\Projects\iCodex\2014-05-18\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+D:\Projects\iCodex\2014-05-18\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+H:\LECTURA IDS\2014-05-18\SEIS\ClassData\bin\Debug\ClassData.dll
+H:\LECTURA IDS\2014-05-18\SEIS\ClassData\bin\Debug\ClassData.pdb
+H:\LECTURA IDS\2014-05-18\SEIS\ClassData\bin\Debug\ClassData.xml
+H:\LECTURA IDS\2014-05-18\SEIS\ClassData\obj\x86\Debug\ClassData.vbprojResolveAssemblyReference.cache
+H:\LECTURA IDS\2014-05-18\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+H:\LECTURA IDS\2014-05-18\SEIS\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+H:\LECTURA IDS\2014-05-18\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+H:\LECTURA IDS\2014-05-18\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+H:\LECTURA IDS\2014-05-18\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassData\bin\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassData\bin\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassData\bin\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassData\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassData\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+H:\LECTURA IDS\2014-06-16\SEIS\ClassData\bin\Debug\ClassData.dll
+H:\LECTURA IDS\2014-06-16\SEIS\ClassData\bin\Debug\ClassData.pdb
+H:\LECTURA IDS\2014-06-16\SEIS\ClassData\bin\Debug\ClassData.xml
+H:\LECTURA IDS\2014-06-16\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+H:\LECTURA IDS\2014-06-16\SEIS\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+H:\LECTURA IDS\2014-06-16\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+H:\LECTURA IDS\2014-06-16\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+H:\LECTURA IDS\2014-06-16\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassData\bin\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassData\bin\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassData\bin\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassData\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassData\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+H:\LECTURA IDS\2014-06-17\SEIS\ClassData\bin\Debug\ClassData.dll
+H:\LECTURA IDS\2014-06-17\SEIS\ClassData\bin\Debug\ClassData.pdb
+H:\LECTURA IDS\2014-06-17\SEIS\ClassData\bin\Debug\ClassData.xml
+H:\LECTURA IDS\2014-06-17\SEIS\ClassData\obj\x86\Debug\ClassData.vbprojResolveAssemblyReference.cache
+H:\LECTURA IDS\2014-06-17\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+H:\LECTURA IDS\2014-06-17\SEIS\ClassData\obj\x86\Debug\ClassData.vbproj.GenerateResource.Cache
+H:\LECTURA IDS\2014-06-17\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+H:\LECTURA IDS\2014-06-17\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+H:\LECTURA IDS\2014-06-17\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassData\bin\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassData\bin\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassData\bin\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassData\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassData\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassData\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassData\bin\Debug\ClassData.dll
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassData\bin\Debug\ClassData.pdb
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassData\bin\Debug\ClassData.xml
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassData\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassData\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassData\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassData\obj\x86\Debug\ClassData.pdb
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassData\bin\Debug\ClassData.dll
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassData\bin\Debug\ClassData.pdb
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassData\bin\Debug\ClassData.xml
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassData\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassData\obj\x86\Debug\DataAccessLayer.Resources.resources
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassData\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassData\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassData\obj\x86\Debug\ClassData.dll
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassData\obj\x86\Debug\ClassData.xml
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassData\obj\x86\Debug\ClassData.pdb

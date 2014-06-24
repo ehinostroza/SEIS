@@ -1,0 +1,305 @@
+D:\Sistemas\2013\Encuesta\ClassFunction\bin\Debug\ClassFunction.dll
+D:\Sistemas\2013\Encuesta\ClassFunction\bin\Debug\ClassFunction.pdb
+D:\Sistemas\2013\Encuesta\ClassFunction\bin\Debug\ClassFunction.xml
+D:\Sistemas\2013\Encuesta\ClassFunction\bin\Debug\ClassBusiness.dll
+D:\Sistemas\2013\Encuesta\ClassFunction\bin\Debug\ClassData.dll
+D:\Sistemas\2013\Encuesta\ClassFunction\bin\Debug\ClassBusiness.pdb
+D:\Sistemas\2013\Encuesta\ClassFunction\bin\Debug\ClassBusiness.xml
+D:\Sistemas\2013\Encuesta\ClassFunction\bin\Debug\ClassData.pdb
+D:\Sistemas\2013\Encuesta\ClassFunction\bin\Debug\ClassData.xml
+D:\Sistemas\2013\Encuesta\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+D:\Sistemas\2013\Encuesta\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+D:\Sistemas\2013\Encuesta\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+D:\Sistemas\2013\Encuesta\ClassFunction\obj\x86\Debug\ClassFunction.dll
+D:\Sistemas\2013\Encuesta\ClassFunction\obj\x86\Debug\ClassFunction.xml
+D:\Sistemas\2013\Encuesta\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+D:\2013\app\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+D:\2013\app\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+D:\2013\app\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+D:\2013\app\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+D:\2013\app\SEIS\ClassFunction\bin\Debug\ClassData.dll
+D:\2013\app\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+D:\2013\app\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+D:\2013\app\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+D:\2013\app\SEIS\ClassFunction\bin\Debug\ClassData.xml
+D:\2013\app\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+D:\2013\app\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+D:\2013\app\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+D:\2013\app\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+D:\2013\app\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+D:\2013\app\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+D:\Sistemas\2013\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+D:\Sistemas\2013\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+D:\Sistemas\2013\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+D:\Sistemas\2013\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+D:\Sistemas\2013\SEIS\ClassFunction\bin\Debug\ClassData.dll
+D:\Sistemas\2013\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+D:\Sistemas\2013\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+D:\Sistemas\2013\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+D:\Sistemas\2013\SEIS\ClassFunction\bin\Debug\ClassData.xml
+D:\Sistemas\2013\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+D:\Sistemas\2013\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+D:\Sistemas\2013\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+D:\Sistemas\2013\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+D:\Sistemas\2013\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+D:\Sistemas\2013\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\bin\Debug\ClassData.dll
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\bin\Debug\ClassData.xml
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+H:\SEIS_\2014-03-02 SEIS\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\bin\Debug\ClassFunction.dll
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\bin\Debug\ClassFunction.pdb
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\bin\Debug\ClassFunction.xml
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\bin\Debug\ClassBusiness.dll
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\bin\Debug\ClassData.dll
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\bin\Debug\ClassBusiness.pdb
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\bin\Debug\ClassBusiness.xml
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\bin\Debug\ClassData.pdb
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\bin\Debug\ClassData.xml
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\obj\x86\Debug\ClassFunction.dll
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\obj\x86\Debug\ClassFunction.xml
+D:\Sistemas\2013\2014-03-06\seis\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\bin\Debug\ClassData.dll
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\bin\Debug\ClassData.xml
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+D:\Sistemas\2013\Version original\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\bin\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\bin\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+C:\Users\ehinostroza\Desktop\CODIGO SEIS_new\2014-03-25 SEIS\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\bin\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\bin\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+C:\Users\ehinostroza\Desktop\CODIGO SEIS\2014-04-24\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassData.dll
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassData.xml
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+H:\Eva\SEIS_\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassData.dll
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassData.xml
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+H:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassData.dll
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\bin\Debug\ClassData.xml
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+E:\NUEVAS_MODIFICACIONES\LECTURA IDS\2014-04-30\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassData.dll
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassData.xml
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+D:\Projects\iCodex\2014-05-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassData.dll
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\bin\Debug\ClassData.xml
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+H:\LECTURA IDS\2014-05-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\bin\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\bin\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+C:\Users\ehinostroza\Desktop\2014-06-15\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\bin\Debug\ClassData.dll
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\bin\Debug\ClassData.xml
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+H:\LECTURA IDS\2014-06-16\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+C:\Users\ehinostroza\Desktop\2014-06-17\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassData.dll
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\bin\Debug\ClassData.xml
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbprojResolveAssemblyReference.cache
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.vbproj.GenerateResource.Cache
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+H:\LECTURA IDS\2014-06-17\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\bin\Debug\ClassData.dll
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\bin\Debug\ClassData.xml
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+C:\Users\ehinostroza\Desktop\2014-06-18\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\bin\Debug\ClassData.dll
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\bin\Debug\ClassData.xml
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+E:\DATA_EVA_SES\CODIGO SEIS\2014-06-18_NUEVO\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\bin\Debug\ClassFunction.dll
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\bin\Debug\ClassFunction.pdb
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\bin\Debug\ClassFunction.xml
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\bin\Debug\ClassBusiness.dll
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\bin\Debug\ClassData.dll
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\bin\Debug\ClassBusiness.pdb
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\bin\Debug\ClassBusiness.xml
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\bin\Debug\ClassData.pdb
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\bin\Debug\ClassData.xml
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.Resources.resources
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.dll
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.xml
+E:\DATA_EVA_SES\CODIGO SEIS\VERSION ACTUAL\2014-06-20\SEIS\ClassFunction\obj\x86\Debug\ClassFunction.pdb
